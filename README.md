@@ -22,7 +22,7 @@ If Node.js is not installed, download it from the [Node.js Official Website](htt
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone [https://github.com/nnson1209/littleLemon.git]
    cd your-repo-directory
 
 2. Install the required dependencies:
